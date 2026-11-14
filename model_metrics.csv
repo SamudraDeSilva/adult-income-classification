@@ -1,0 +1,7 @@
+Model,Accuracy,Balanced_Accuracy,Precision,Recall,F1,ROC_AUC,PR_AUC
+Gradient Boosting,0.871,0.794,0.784,0.645,0.708,0.93,0.829
+Random Forest,0.862,0.774,0.776,0.603,0.679,0.921,0.807
+Neural Network (MLP),0.854,0.768,0.744,0.602,0.665,0.913,0.779
+Logistic Regression,0.85,0.763,0.736,0.593,0.657,0.908,0.768
+Gaussian Naive Bayes,0.627,0.735,0.388,0.944,0.55,0.863,0.637
+Majority-class baseline,0.758,0.5,0.0,0.0,0.0,0.5,0.242
