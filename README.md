@@ -88,3 +88,13 @@ Priorities include stronger external and cross-validated evaluation, class-sensi
 ## Limitations and responsible use
 
 The data describe a historical population and a nominal US$50,000 income threshold. Observed relationships are not necessarily causal. Class imbalance, possible social biases, proxy variables and the use of one held-out test set limit generalisation. **Do not use the project to make hiring, lending, welfare or other consequential decisions about individuals.**
+
+## License and Citation
+
+### Licence
+
+The original source code and analytical implementation developed for this project are available under the [MIT licence](LICENSE), permitting reuse, modification and distribution in accordance with its terms. Third-party datasets remain subject to their respective licensing conditions.
+
+### Citation
+
+This research project was developed by Samudra Nimesh De Silva. Researchers and practitioners referencing this work are encouraged to cite the repository using the information provided in [CITATION.cff](CITATION.cff).
